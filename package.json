@@ -1,0 +1,25 @@
+{
+  "name": "carbon-post",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "carbon-post": "bin/carbon-post.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArunSahadeo/carbon-post.git"
+  },
+  "keywords": [
+    "crawler",
+    "datetime"
+  ],
+  "author": "Arun Sahadeo <arunjamessahadeo@gmail.com>",
+  "license": "GPL",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
