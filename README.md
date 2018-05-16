@@ -22,4 +22,4 @@ You will then be prompted for a URL, as follows:
 Please enter a URL: 
 ```
 
-Once you type in the URL, press the <Enter> key and the crawler will do the rest for you.
+Once you type in the URL, hit the ENTER key and the crawler will do the rest for you.
